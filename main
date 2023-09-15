@@ -8,7 +8,6 @@ import shutil
 from PIL import Image, ImageTk
 import PIL
 from tkinter import ttk
-import os
 
 
 while True:
