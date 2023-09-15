@@ -1,2 +1,2 @@
 # THE BEST AUTO BUMP TOOLS (GUI)
-![Screenshot](https://cdn.discordapp.com/attachments/1035687345002926164/1152339135785353277/image.png)
+![Screenshot](![image](https://github.com/Ryan4794/autobumptools/assets/110686855/469b8485-4eb3-4f59-8b70-b92102ebb32c))
