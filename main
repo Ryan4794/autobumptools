@@ -10,19 +10,19 @@ import PIL
 from tkinter import ttk
 
 
-while True:
-    try:
-        selected_image = input()
-        if not selected_image:
-            selected_image = "img1.png"
-        original_image = Image.open(f"theme//{selected_image}")
-        break
-    except:
-          pass
+#while True:
+#    try:
+#        selected_image = input()
+#        if not selected_image:
+#            selected_image = "img1.png"
+#        original_image = Image.open(f"theme//{selected_image}")
+#        break
+#    except:
+#          pass
 
 
 
-
+selected_image = "img1.png"
 
 
 
