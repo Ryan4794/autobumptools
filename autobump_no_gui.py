@@ -100,7 +100,7 @@ def bump(guild_id, channel_id, token, password, email):
         else:
             print("Error, Failed to log in. Check your credentials.", r.status_code, r.text)
             return
-    print(headers, json.dumps(data))
+
     response = requests.post("https://discord.com/api/v9/interactions", headers=headers, data=json.dumps(data))
     if response.status_code == 204:
         print("Successfully sent bump.")
