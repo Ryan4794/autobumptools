@@ -23,6 +23,7 @@ from tkinter import ttk
 
 
 selected_image = "img1.png"
+original_image = Image.open(f"theme//{selected_image}")
 
 
 
